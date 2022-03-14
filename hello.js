@@ -1,5 +1,8 @@
+'use strict';
+
+
 const express = require('express');
-var app = express();
+const app = express();
 
 const port = 8080;
 const host = '0.0.0.0';
